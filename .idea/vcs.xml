@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BarCodeScanner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BiometricApplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Converter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DetectFace" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TextVisionApi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Theme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/superflix" vcs="Git" />
+  </component>
+</project>
